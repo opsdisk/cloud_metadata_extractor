@@ -4,7 +4,7 @@ Cloud metadata extraction tools and scripts.
 
 ## Research
 
-This repo is the result of research for the BSides San Antonio 2019 talk.  Click the link for the slides (included in this repo):
+This repo is the result of research for a BSides San Antonio 2019 presentation.  Click the link for the slides (included in this repo):
 
 [There's no place like 169.254.169.254 - Ab(using) cloud metadata URLs](./abusing_cloud_metadata_urls-bsides_satx_2019.pdf)
 
