@@ -8,7 +8,7 @@ import logging
 import random
 import sys
 import time
-import urllib
+import urllib.request
 
 # from urllib.parse import urlparse
 
@@ -271,7 +271,7 @@ def fetch_all_aws_endpoint_data(base_path, headers={}, proxies={}, base_url="htt
 def concurrent_futures_load_url_azure(proxy_target):
     """Retrieve a single page and report the URL and contents for Azure endpoints."""
 
-    print("Functionality will be released soon.")
+    print("Functionality will be released after responsbile disclosure period expires.")
 
     return None
 
@@ -279,7 +279,7 @@ def concurrent_futures_load_url_azure(proxy_target):
 def concurrent_futures_load_url_digital_ocean(proxy_target):
     """Retrieve a single page and report the URL and contents for Digital Ocean endpoints."""
 
-    print("Functionality will be released soon.")
+    print("Functionality will be released after responsbile disclosure period expires.")
 
     return None
 
@@ -289,7 +289,7 @@ def concurrent_futures_load_url_aws(
 ):
     """Retrieve a single page and report the URL and contents for AWS endpoints."""
 
-    print("Functionality will be released soon.")
+    print("Functionality will be released after responsbile disclosure period expires.")
 
     return None
 
@@ -305,7 +305,7 @@ def async_request(
 ):
     """Make asynchronous requests based off a list of URLs"""
 
-    print("Functionality will be released soon.")
+    print("Functionality will be released after responsbile disclosure period expires.")
 
     return None
 
