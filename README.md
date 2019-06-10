@@ -21,6 +21,15 @@ source .venv/bin/activate  # If using a virtual environment.
 pip3 install -r requirements.txt
 ```
 
+## Neutered cloud_metadata_extractor.py script
+
+Because I am still working with some organizations affected, some functions and functionality have been replaced with:
+
+```python
+print("Functionality will be released after responsbile disclosure period expires.")
+```
+
+
 ## Collect Target IPs
 
 ### Amazon AWS
